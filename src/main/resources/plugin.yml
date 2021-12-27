@@ -1,0 +1,11 @@
+name: EcoBounty
+version: 0.1
+main: com.playthepurge.dotbait.EcoBounty
+website: playthepurge.com
+api-version: 1.13
+depend: [PlaceholderAPI]
+
+commands:
+  bounty:
+    description: View, create, and claim bounties.
+    usage: /bounty
